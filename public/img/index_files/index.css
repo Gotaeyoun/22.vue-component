@@ -1,0 +1,27 @@
+/************************공통사항*****************************/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap');
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;*/
+html,body{font-family: 'Open Sans', sans-serif; height: 10000px;}
+.wrapper{max-width:1340px; margin: 0 auto;}
+
+
+
+
+/************************header*****************************/
+.header{border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 2rem 0;}
+.header-wrap > .header-bar{display: flex; justify-content: space-between;}
+.header-bar > .header-call
+.header-bar > .header-call > span:nth-child(1){color: #777;}
+.header-bar > .header-call > span:nth-child(2){color: #333;}
+.header-bar > .logo
+.header-bar > .icon-wrap
+
+.header-wrap header-navi{}
+.header-navi > .navis{display: flex;}
+
+
+
+
+
+/************************footer*****************************/
